@@ -5,12 +5,11 @@ theme = "hugo-initio"
 publishDir = "docs"
 
 [params]
-    name = "Anthony Russel"
-    description = "A mystery person"
-    email = "anthony.russel42@example.com"
-    phone = "+234 23 9873237"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2017
+    name = "Monica Hart"
+    description = "An extra ordinary person"
+    email = "mhart2012@gmail.com"
+    address = "Mission, KS"
+    year = 2020
     avatar = "images/guy.jpg"
     background = ""
     favicon = "images/gt_favicon.png"
