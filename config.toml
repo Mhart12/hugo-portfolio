@@ -1,8 +1,9 @@
-baseURL = "https://miguelsimoni.github.io/hugo-initio-site/"
+baseURL = "http://localhost:1313/hugo-initio-site/"
 languageCode = "en-us"
 title = "Monica Hart's Portfolio"
 theme = "hugo-initio"
 publishDir = "docs"
+canonifyURLs = true
 
 [params]
     name = "Monica Hart"
@@ -33,6 +34,10 @@ publishDir = "docs"
 [[menu.main]]
     name = "blog"
     url = "/post/"
+    weight = 5
+[[menu.main]]
+    name = "about"
+    url = "/about/"
     weight = 5
 
 [params.disqus]
