@@ -11,8 +11,8 @@ canonifyURLs = true
     email = "mhart2012@gmail.com"
     address = "Mission, KS"
     year = 2020
-    avatar = "img/avatar.jpg"
-    banner = "img/banner-img.jpg"
+    avatar = "img/avatarpic.jpg"
+    banner = "img/grey_banner.jpg"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
 
