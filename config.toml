@@ -13,6 +13,7 @@ canonifyURLs = true
     year = 2020
     avatar = "img/avatarpic.jpg"
     banner = "img/grey_banner.jpg"
+    gif = "img/pink_cat.gif"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
 
