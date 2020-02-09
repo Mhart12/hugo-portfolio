@@ -1,5 +1,0 @@
-[submodule "themes/hugo-initio"]
-	path = themes/hugo-initio
-	url = https://github.com/Mhart12/hugo-portfolio.git
-	branch = master
-
