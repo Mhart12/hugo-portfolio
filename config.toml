@@ -16,6 +16,7 @@ canonifyURLs = true
     gif = "img/pink_cat.gif"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
+    404 = "404 Page Cannot Be Found"
 
     showSubheader = true
     showServices = true
