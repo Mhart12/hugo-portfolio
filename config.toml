@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/hugo-initio-site/"
+baseURL = ""
 languageCode = "en-us"
 title = "Monica Hart's Portfolio"
 theme = "hugo-initio"
