@@ -1,4 +1,5 @@
-baseURL = "http://localhost:1313/hugo-initio-site/"
+baseURL = "https://mhartkc.netlify.com/"
+testbaseURL = "http://localhost:1313/hugo-initio-site/"
 languageCode = "en-us"
 title = "Monica Hart's Portfolio"
 theme = "hugo-initio"
