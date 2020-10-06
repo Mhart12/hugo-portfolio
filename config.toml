@@ -1,4 +1,4 @@
-baseURL = "https://mhartkc.netlify.com/"
+baseURL = "https://mhartkc.netlify.app/"
 testbaseURL = "http://localhost:1313/hugo-initio-site/"
 languageCode = "en-us"
 title = "Monica Hart's Portfolio"
